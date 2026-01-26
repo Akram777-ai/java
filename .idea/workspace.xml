@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32528519-f6df-45cd-b9e1-59bf41029ed8" name="Changes" comment="initial commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="32528519-f6df-45cd-b9e1-59bf41029ed8" name="Changes" comment="вфпонение работы" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +47,9 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
+  <component name="Push.Settings">
+    <option name="SHOW_DETAILS_PANEL" value="false" />
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1769407402977</updated>
-      <workItem from="1769407404453" duration="2735000" />
+      <workItem from="1769407404453" duration="3734000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1769408363979</created>
@@ -108,7 +109,21 @@
       <option name="project" value="LOCAL" />
       <updated>1769408939329</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="вфпонение работы">
+      <created>1769410382679</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1769410382679</updated>
+    </task>
+    <task id="LOCAL-00009" summary="вфпонение работы">
+      <created>1769410486226</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1769410486226</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,7 +143,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial cimmit" />
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="вфпонение работы" />
+    <option name="LAST_COMMIT_MESSAGE" value="вфпонение работы" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
